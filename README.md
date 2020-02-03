@@ -1,4 +1,26 @@
 ## Welcome to GitHub Pages
+## What is Markdown?
+When you add bold, italics, numbered lists, bullet points, headings, and so on to text, you’re “formatting” it. Markdown is a syntax—or, set of rules—that formats text on web pages.
+Headers
+# #This is an H1
+
+## ##This is an H2
+
+
+
+Bullet Points
+* Red
+* Green
+* Blue
+
+Numbered Lists
+1. Bird
+2. McHale
+3. Parish
+
+Emphasis
+*bold*
+_italics_
 
 You can use the [editor on GitHub](https://github.com/Maramessa/read01/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
